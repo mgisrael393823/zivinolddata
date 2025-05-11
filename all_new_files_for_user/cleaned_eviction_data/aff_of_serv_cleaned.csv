@@ -1,0 +1,50 @@
+e-file_-_affidavit_of_service,unnamed_1,unnamed_2,unnamed_3,unnamed_4,unnamed_5
+"INSTRUCTIONS 
+1) Go to https://illinois.tylerhost.net/ofsweb and Log In. Username is czivin@wolfsolovy.com; Password is ChaZiv10520*
+2) Click ""View All""
+3) Click on the magnifying glass in the top right corner
+4) In the Envelope or Case # box type in the case number without the M and then click search
+5) Click on ""Actions"" and then ""File Into Case With Template""
+6) Choose Aff of Service by clicking ""Actions"" next to it and then click ""Use Template"" 
+7) There will likely be pop-up just click Next for all of them whenever they pop-up
+8) In the ""Case Cross Referenced Number"" box type in 44113 and then in the box next to it click ""Case Cross Reference Type"" Click ""Cook County Attorney Code"" in the drop down and then click ""Add Case Cross Reference Number"" and then click ""Save Changes""
+9) Scroll down to the Filings Section and click on the first line that says ""Affidavit of Service"" which will open up more fields
+10) In Filing Description it already should say ""Affidavit of Service ()"" - just fill in the parentheses with the last name of the tenant (e.g. ""Affidavit of Service (Anderson)""
+11) In the ""Client Reference Number type in the File # (e.g. CPM099)
+12) Under Lead Document add the Affidavit of Service for that Defendant from the folder in For SLW --> this will create another box next to it called ""Security"" Click it and choose ""Non-Confidential"" then click ""Save Changes"" 
+13) After that go to the next line under ""Filings"" also called ""Aff of Service (AUO)""
+14) Repeat 10-12 for the All Unknown Occupants so keep AUO in the parenthases and just put the tenants last name in front of it (e.g. ""Affidavit of Service (Anderson AUO)"")
+15) NOTE that there is one more step if the case is only against 1 named tenant OR if the case is just against All Unknown Occupants - in that case you will click the Action button next to the other filings that you are not going to use and click ""Remove Filing""
+16) Go to the Fees Section > Payment Account is CZ&A > Party Responsible is the Plaintiff / our client > Filing Attorney is me > Save Changes
+17) Under Return Date click Verify and then Save Changes
+18) Under Submission Agreements click the box and then click Summary
+19) On the next page click Submit > It will ask you if you want to Request Hearing Date - click ""Do Not Schedule""
+20) Note that since there is no fee you do not need to click to save the receipt
+21) Repeat for all the rest! ",,,,,
+Client No,Case No,Plaintiff ,Defendant,Aff of Service Filed for each Tenant?,
+CPM161,2024 M1 707887,The Chicago Property Management,Cynthia Jackson,,
+CPM162,2024 M1 707888,The Chicago Property Management,Geneese C. Muhammad,,
+CPM166,2024 M1 707895,The Chicago Property Management,Myeika Gardner,,
+SPM042,2024 M1 707854,Smart Property Management,Shamika Mack,,
+SPM044,2024 M1 707858,Smart Property Management,Michele Ramirez,,
+APM001,2024 M1 707942,Art Property Management, Tanavia Scott,,
+CPM143,2024 M1 706207,The Chicago Property Management,Dave Gayle,,
+APC076,2024 M5 003669,Deshe at Knox, Tyreke D. Taylor,,
+BKC039,2025 M1 702523,BK Chicago LLC,Samanta Maria Teck,SERVED,2025-03-05 00:00:00
+BKC040,2025 M1 702525,BK Chicago LLC,Andry Alexander Sanchez Gutierrez,SERVED,2025-02-24 00:00:00
+BKC041,2025 M1 702524,BK Chicago LLC,"Kellis Saavedra, Brando Saavedra, Jomber Mendez",SERVED,2025-02-26 00:00:00
+BKC042,2025 M1 702508,BK Chicago LLC,Milagros Del Valle Figueredo,SERVED,2025-02-24 00:00:00
+BKC048,2025 M1 702531,BK Chicago LLC,Jonathan Natividad Ferrer,SERVED,2025-03-05 00:00:00
+BKC049,2025 M1 702533,BK Chicago LLC,Mena Blackman,SERVED,2025-02-23 00:00:00
+BKC050,2025 M1 702532,BK Chicago LLC,Lithia Crafton,SERVED,2025-02-22 00:00:00
+BKC052,2025 M1 702536,BK Chicago LLC,Michael Dukes,SERVED,2025-03-05 00:00:00
+SVN026,2025 M1 702538,SVN Chicago Property Management,Chennel Edwards,SERVED,2025-03-06 00:00:00
+SVN029,2025 M1 702541,SVN Chicago Property Management,Shalena Watson,SERVED,2025-03-08 00:00:00
+SVN030,2025 M1 702542,SVN Chicago Property Management,Jajuana Walker,SERVED,2025-03-06 00:00:00
+SVN031,2025 M1 702543,SVN Chicago Property Management,Slewa Lazar,SERVED,2025-02-26 00:00:00
+BKC043,2025 M1 702526,BK Chicago LLC,Miguel Lozado Sangrons,NOT SERVED,VACATED?
+BKC044,2025 M1 702528,BK Chicago LLC,Ronniel Y. Ferrer,NOT SERVED,POSTING
+BKC045,2025 M1 702529,BK Chicago LLC,Karla Katiusca Duran Diaz,NOT SERVED,VACATED?
+BKC046,2025 M1 702510,BK Chicago LLC,Jose Gimenez,NOT SERVED,VACATED?
+BKC047,2025 M1 702545,BK Chicago LLC,Glenys Gonzalez,NOT SERVED,VACATED?
+SVN028,2025 M1 702540,SVN Chicago Property Management,Asare Reed,NOT SERVED,POSTING

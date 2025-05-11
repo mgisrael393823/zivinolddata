@@ -1,0 +1,55 @@
+alias,unnamed_1,unnamed_2,unnamed_3,unnamed_4,unnamed_5
+"INSTRUCTIONS 
+1) Go to https://illinois.tylerhost.net/ofsweb and Log In. Username is czivin@wolfsolovy.com; Password is ChaZiv10520*
+2) Click ""View All""
+3) Click on the magnifying glass in the top right corner
+4) In the Envelope or Case # box type in the case number without the M and then click search
+5) Click on ""Actions"" and then ""File Into Case With Template""
+6) Choose Alias Summons by clicking ""Actions"" next to it and then click ""Use Template"" 
+7) There will likely be pop-up just click Next for all of them whenever they pop-up
+8) In the ""Case Cross Referenced Number"" box type in 44113 and then in the box next to it click ""Case Cross Reference Type"" Click ""Cook County Attorney Code"" in the drop down and then click ""Add Case Cross Reference Number"" and then click ""Save Changes""
+9) Scroll down to the Filings Section and click on the first line that says ""Alias Summons..."" which will open up more fields
+10) In Filing Description it already should say ""Alias Eviction Summons ()"" - just fill in the parentheses with the last name of the tenant (e.g. ""Alias Eviction Summons (Barfield)""
+11) In the ""Client Reference Number type in the File # (e.g. CPM018)
+12) Under Lead Document add the Alias Summons for that Defendant from the file --> this will create another box next to it called ""Security"" Click it and choose ""Non-Confidential"" then click ""Save Changes"" 
+13) After that go to the next line under ""Filings"" also called ""Alias Summons...""
+14) Repeat 10-12 for the All Unknown Occupants so keep AUO in the parenthases and just put the tenants last name in front of it (e.g. ""Alias Eviction Summons (Barfield AUO)"")
+15) NOTE that there is one more step if there is more than 1 named tenant - if there are more than 1 defendant then you will click ""Add Another Filing"" on the bottom right of the Filings Section > Click Filing Type and choose ""EFile"" > in the ""Filing Code"" drop down box choose ""Alias Summons - Issued And Returnable - $6.00"" > in Filing Description type in Alias Eviction Summons (2nd Tenant's Last Name) then just repeat 10-12 again.
+16) Go to the Fees Section > Payment Account is CZ&A > Party Responsible is the Plaintiff / our client > Filing Attorney is me > Save Changes
+17) Under Return Date click Verify and then Save Changes
+18) Under Submission Agreements click the box and then click Summary
+19) On the next page click Submit > It will ask you if you want to Request Hearing Date - click ""Do Not Schedule""
+20) A box will pop up in the top right corner click the blue link to see the receipt and then save it as ""Alias Summons Fee (File #)"" (e.g. ""Alias Summons Fee (CPM018)"")
+21) Repeat for all the rest! ",,,,,
+Client No,Case No,Plaintiff,Defendant(s),Alias Filed For Each Tenant? & AUO,Receipt Saved
+MLC217,20241716177,MLC Properties and Management,Bryonna Jacobs,,
+MLC218,20241716179,MLC Properties and Management,Kenya Shelton,,
+MLC219,20241716180,MLC Properties and Management,Katrina Williams,,
+MLC220,20241716181,MLC Properties and Management,Asia Johnson,,
+MLC223,20241716186,MLC Properties and Management,Venitta Craig,,
+MLC225,20241716188,MLC Properties and Management,"Antonio Berry, Candra Graham",,
+SPM053,20241716192,Smart Property Management,Lisa Sanders,,
+SPM054,20241716194,Smart Property Management,Tiffany Luthi,,
+BKC010,20241716197,BK Chicago LLC,Leydi A. Guaranda,,
+BKC012,20241716199,BK Chicago LLC,Seneka Hunley,,
+BKC013,20241716200,BK Chicago LLC,"Jordan Soto, Luis A. Criollo, Leonardo V. Mena",,
+BKC014,20241716201,BK Chicago LLC,Jermaine Price,,
+BKC015,20241716204,BK Chicago LLC,Jajuana Bryant,,
+BKC009,20241716223,BK Chicago LLC,Briana Norman,,
+606R001,20241716222,606 Realty as Agent for 5240 S. Drexel LLC ,Kayla Williams,,
+MLC224,2024 M1 717782,MLC v. Alicia Osuagwu,"6818 N Wayne Ave, Apt 6, Chicago, IL 60626",2024-10-30 00:00:00,2025-01-17 00:00:00
+MLC226,2024 M1 717785,MLC v. Danielle Gray,"9345 S Stewart Ave, Chicago, IL 60620",2024-10-30 00:00:00,2025-01-17 00:00:00
+MLC227,2024 M1 717787,MLC v. Shanelle Harrison,"9052 S Abbott Ave, Chicago, IL 60620",2024-10-30 00:00:00,2025-01-17 00:00:00
+MLC229,2024 M1 717790,MLC v. LaTaylor Johnson,"9121 S Princeton Ave, Chicago, IL 60620",2024-10-30 00:00:00,2025-01-17 00:00:00
+MLC230,2024 M1 717791,MLC v. Charlene Cole,"9320 S Wentworth Ave, Chicago, IL 60620",2024-10-30 00:00:00,2025-01-17 00:00:00
+MLC231,2024 M1 717793,"MLC v. Andres F. Padilla, Yessica S. Mariena","9153 S Harvard Ave, Chicago, IL 60620",2024-10-30 00:00:00,2025-01-17 00:00:00
+MLC232,2024 M1 717797,"MLC v. Precious Collins, Orzel Commins-Bailey, Omari Ridout","218 W 92nd St, Chicago, IL 60620",2024-10-30 00:00:00,2025-01-17 00:00:00
+MES003,2024 M1 717796,"A/R Management & Real Estate v. Enrique Rivera, Angel Clifton","5624 N Kimbal Ave, #A2, Chicago, IL 60659",2024-10-30 00:00:00,2025-01-17 00:00:00
+SVN020,2024 M1 717884,SVN v. Thomas Johnson,"5749 W Augusta Blvd, 2nd Fl, Chicago, IL 60651",2024-11-04 00:00:00,2025-01-17 00:00:00
+PM011,2024 M1 717963,"Pabcor v. Yanitza Farias, Yajaira Sanchez - 708-916-6525","5800 N. Sheridan Ave, Unit 202, Chicago, IL 60660",2024-11-04 00:00:00,2025-01-17 00:00:00
+SVN021,2024 M1 718323,SVN v. Montel Austin,"2001 S State St, Unit 4B, Chicago, IL 60616",2024-11-08 00:00:00,2025-01-17 00:00:00
+SVN022,2024 M1 718349,SVN v. William Lee,"1140 W 18th St, #2R, Chicago, IL 60608",2024-11-08 00:00:00,2025-01-17 00:00:00
+APM004 ,2024 M1 718351,Art Property Management v. Danshell Webb,"7312 S King Dr, #1N, Chicago, IL 60619",2024-11-08 00:00:00,2025-01-17 00:00:00
+AP001,2024 M1 717964,Altitude Properties LLC v. Vikki Jordan,"5423 W West End Ave, Chicago, IL 60644",2024-11-04 00:00:00,2025-01-17 00:00:00
+AA001,2024 M1 717965,Albany Arms LLC v. Jose Flores - 872-357-7387,"6327 N Albany Ave, Apt 3, Chicago, IL 60659",2024-11-04 00:00:00,2025-01-17 00:00:00
+NS001,2024 M1 717966,Nick Stocking v. Tracy Boone,"240 E Illinois St, #805, Chicago, IL 60611",2024-11-04 00:00:00,2025-01-17 00:00:00
